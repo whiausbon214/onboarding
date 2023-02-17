@@ -163,6 +163,17 @@ a {
     color: #1a569d;
     text-decoration: underline; }
 
+p a {
+  bakground-color: #064B84;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none; }
